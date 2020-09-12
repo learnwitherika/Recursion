@@ -18,14 +18,6 @@ class Person():
 
     def get_name(self):
         return self.firstname + " " + self.lastname
-# print(Person.id)
-# p = Person("AJ", "Parameswaran", "M")
-# print(p.firstname)
-# print(p.lastname)
-# print(p.gender)
-# print(p.get_name())
-# print(p.__dict__)
-# # print(help(p))
 #
 # print(Person.id)
 # m = Person("ES", "Sujatha", "F")
